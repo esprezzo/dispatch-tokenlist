@@ -1,0 +1,40 @@
+{
+  "name": "@esprezzo/dispatch-token-list",
+  "version": "0.1.0",
+  "description": "◦ The Dispatch curated token list",
+  "main": "build/dispatch-default.tokenlist.json",
+  "scripts": {
+    "test": "mocha",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/dispatch-default.tokenlist.json",
+    "deploy": "yarn build && aws s3 sync build/ s3://tokens.esprezzo.io",
+    "prepublishOnly": "npm test && npm run build"
+  },
+  "files": [
+    "build/dispatch-default.tokenlist.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esprezzo/dispatch-tokenlist.git"
+  },
+  "keywords": [
+    "esprezzo",
+    "dispatch",
+    "default",
+    "token",
+    "list"
+  ],
+  "author": "Esprezzo",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/esprezzo/dispatch-tokenlist/issues"
+  },
+  "homepage": "https://esprezzo.io",
+  "devDependencies": {
+    "@ethersproject/address": "^5.0.2",
+    "@uniswap/token-lists": "^1.0.0-beta.8",
+    "ajv": "^6.12.3",
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1",
+    "rimraf": "^3.0.2"
+  }
+}

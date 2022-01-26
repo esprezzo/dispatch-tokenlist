@@ -1,0 +1,106 @@
+[
+  {
+    "chainId": 1666600000,
+    "address": "0xE176EBE47d621b984a73036B9DA5d834411ef734",
+    "symbol": "BUSD",
+    "name": "BUSD - Bridged from Ethereum",
+    "decimals": 18, 
+    "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png" 
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xEf977d2f931C1978Db5F6747666fa1eACB0d0339",
+    "symbol": "DAI",
+    "name": "DAI - Bridged from Ethereum", 
+    "decimals": 18,
+    "logoURI": "https://s3-us-west-1.amazonaws.com/tokens.mochiswap.io/images/dai-logo.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xcF664087a5bB0237a0BAd6742852ec6c8d69A27a",
+    "symbol": "WONE",
+    "name": "Wrapped ONE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/4344/small/Y88JAze.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x985458E523dB3d53125813eD68c274899e9DfAb4",
+    "symbol": "USDC",
+    "name": "USD Coin - Bridged from Ethereum",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x3095c7557bCb296ccc6e363DE01b760bA031F2d9",
+    "symbol": "WBTC",
+    "name": "Wrapped BTC - Bridged from Ethereum",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x6983D1E6DEf3690C4d616b13597A09e6193EA013",
+    "symbol": "1ETH",
+    "name": "Ether - Bridged from Ethereum",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/279/small/ethereum.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x218532a12a389a4a92fC0C5Fb22901D1c19198aA",
+    "symbol": "LINK",
+    "name": "ChainLink Token - Bridged from Ethereum",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xBEC775Cb42AbFa4288dE81F387a9b1A3c4Bc552A",
+    "symbol": "SUSHI",
+    "name": "SUSHI - Bridged from Ethereum",
+    "decimals": 18,
+    "logoURI": "https://etherscan.io/token/images/sushitoken_32.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xEa589E93Ff18b1a1F1e9BaC7EF3E86Ab62addc79",
+    "symbol": "VIPER",
+    "name": "VIPER Token",
+    "decimals": 18,
+    "logoURI": "https://miro.medium.com/fit/c/56/56/1*6X4n2JzQweFbOjpneSWiOw.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xb1f6E61E1e113625593a22fa6aa94F8052bc39E0",
+    "symbol": "bscBNB",
+    "name": "BSC - Bridged from BNB",
+    "decimals": 18,
+    "logoURI": "https://s3-us-west-1.amazonaws.com/tokens.mochiswap.io/images/bnb-light.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x691f37653f2fBed9063fEBB1A7f54BC5C40bEd8C",
+    "symbol": "hMOCHI",
+    "name": "Mochiswap Token",
+    "decimals": 18,
+    "logoURI": "https://s3.us-west-1.amazonaws.com/tokens.mochiswap.io/images/mochi.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xCB35e4945c7F463c5CCBE3BF9f0389ab9321248F",
+    "symbol": "ONEMOON",
+    "name": "ONEMoon",
+    "decimals": 9,
+    "logoURI": "https://s3-us-west-1.amazonaws.com/tokens.mochiswap.io/images/onemoon.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x72Cb10C6bfA5624dD07Ef608027E366bd690048F",
+    "symbol": "JEWEL",
+    "name": "Jewel",
+    "decimals": 18,
+    "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FJEWEL.png?alt=media"
+  }
+]

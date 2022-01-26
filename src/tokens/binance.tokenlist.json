@@ -1,0 +1,83 @@
+[
+  {
+    "name": "WBNB Token",
+    "symbol": "WBNB",
+    "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+
+  },
+  {
+    "name": "BUSD Token - BSC",
+    "symbol": "BUSD",
+    "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
+  },
+  {
+    "name": "Ethereum Token - BSC",
+    "symbol": "ETH",
+    "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png"
+  },
+  {
+    "name": "Cosmos Token - BSC",
+    "symbol": "ATOM",
+    "address": "0x0eb3a705fc54725037cc9e008bdede697f62f335",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x0eb3a705fc54725037cc9e008bdede697f62f335.png"
+  },
+  {
+    "name": "Dai Token - BSC",
+    "symbol": "DAI",
+    "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3.png"
+  },
+  {
+    "name": "YFII.finance Token - BSC",
+    "symbol": "YFII",
+    "address": "0x7f70642d88cf1c4a3a7abb072b53b929b653eda5",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x7f70642d88cf1c4a3a7abb072b53b929b653eda5.png"
+  },
+  {
+    "name": "Cream - BSC",
+    "symbol": "CREAM",
+    "address": "0xd4cb328a82bdf5f03eb737f37fa6b370aef3e888",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xd4cb328a82bdf5f03eb737f37fa6b370aef3e888.png"
+  },
+  {
+    "name": "Polkadot Token - BSC",
+    "symbol": "DOT",
+    "address": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x7083609fce4d1d8dc0c979aab8c869ea2c873402.png"
+  },
+  {
+    "name": "PancakeSwap Token - BSC",
+    "symbol": "CAKE",
+    "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
+  },
+  {
+    "name": "ChainLink Token - BSC",
+    "symbol": "LINK",
+    "address": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd.png"
+  }
+]
