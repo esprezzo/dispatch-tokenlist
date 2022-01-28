@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>0x0f5d2fb29fb7d3cfee444a200298f468908cc942</title>
+    <defs>
+        <linearGradient x1="85.355%" y1="14.645%" x2="14.645%" y2="85.355%" id="linearGradient-1">
+            <stop stop-color="#FF2D55" offset="0%"></stop>
+            <stop stop-color="#FFBC5B" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.966%" y1="0%" x2="49.966%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#A524B3" offset="0%"></stop>
+            <stop stop-color="#FF2D55" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.966%" y1="0%" x2="49.966%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#A524B3" offset="0%"></stop>
+            <stop stop-color="#FF2D55" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="0x0f5d2fb29fb7d3cfee444a200298f468908cc942" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="decentraland-mana-logo" fill-rule="nonzero">
+            <circle id="Oval" fill="url(#linearGradient-1)" cx="32" cy="32" r="32"></circle>
+            <polygon id="Path" fill="url(#linearGradient-2)" points="22.672 20.8 22.672 44.8 42.672 44.8"></polygon>
+            <polygon id="Path" fill="#FFFFFF" points="2.672 44.8 22.672 44.8 22.672 20.8"></polygon>
+            <path d="M6.4,51.2 C8.224,53.616 10.384,55.776 12.8,57.6 L51.2,57.6 C53.616,55.776 55.776,53.616 57.6,51.2 L6.4,51.2 Z" id="Path" fill="#FC9965"></path>
+            <path d="M12.8,57.6 C18.144,61.616 24.8,64 32,64 C39.2,64 45.856,61.616 51.2,57.6 L12.8,57.6 Z" id="Path" fill="#FF2D55"></path>
+            <polygon id="Path" fill="url(#linearGradient-3)" points="42.928 33.6 42.928 51.2 57.6 51.2"></polygon>
+            <path d="M42.928,44.8 L2.672,44.8 C3.664,47.088 4.928,49.232 6.4,51.2 L42.944,51.2 L42.944,44.8 L42.928,44.8 L42.928,44.8 Z" id="Path" fill="#FFBC5B"></path>
+            <polygon id="Path" fill="#FFFFFF" points="28.272 51.2 42.928 51.2 42.928 33.6"></polygon>
+            <circle id="Oval" fill="#FFC95B" cx="42.928" cy="20.8" r="8"></circle>
+            <circle id="Oval" fill="#FFC95B" cx="22.672" cy="12" r="4"></circle>
+        </g>
+    </g>
+</svg>
