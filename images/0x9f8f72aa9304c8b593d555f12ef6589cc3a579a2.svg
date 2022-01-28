@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#4FA89B" offset="0%"></stop>
+            <stop stop-color="#6ACEBB" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="maker-mkr-logo" fill-rule="nonzero">
+            <circle id="Oval" fill="url(#linearGradient-1)" cx="32" cy="32" r="32"></circle>
+            <path d="M16.2496,41.6 L16.2496,26.5386667 L27.6714667,35.1349333 L27.6714667,41.6 L30.5866667,41.6 L30.5866667,34.528 C30.585581,33.9952678 30.3348677,33.4938411 29.9093333,33.1733333 L16.0576,22.7445333 C15.5409479,22.3607977 14.8523635,22.3003271 14.2767369,22.5881404 C13.7011103,22.8759537 13.3363361,23.4631036 13.3333333,24.1066667 L13.3333333,41.6 L16.2496,41.6 Z M47.8378667,41.6 L47.8378667,26.5386667 L36.416,35.1349333 L36.416,41.6 L33.5008,41.6 L33.5008,34.528 C33.5018856,33.9952678 33.752599,33.4938411 34.1781333,33.1733333 L48.0298667,22.7488 C48.5459025,22.3655074 49.2335328,22.3046799 49.8088405,22.5914328 C50.3841482,22.8781856 50.7495341,23.463872 50.7541333,24.1066667 L50.7541333,41.6 L47.8378667,41.6 Z" id="Shape" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>
