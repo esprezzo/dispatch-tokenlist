@@ -136,6 +136,14 @@
     "logoURI": "https://tokens.esprezzo.io/images/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.svg"
   },
   {
+    "name": "Wrapped Ether",
+    "chainId": 1,
+    "symbol": "WETH",
+    "decimals": 18,
+    "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "logoURI": "https://tokens.esprezzo.io/images/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2.svg"
+  },
+  {
       "name": "yearn.finance",
       "chainId": 1,
       "symbol": "YFI",
