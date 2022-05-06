@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>img / logo / projects / polygon / SAND</title>
+    <defs>
+        <linearGradient x1="21.44%" y1="17.77%" x2="83.74%" y2="88.07%" id="linearGradient-1">
+            <stop stop-color="#00ADEF" offset="0%"></stop>
+            <stop stop-color="#0084FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="img-/-logo-/-projects-/-polygon-/-SAND" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill="url(#linearGradient-1)" fill-rule="nonzero" cx="32" cy="32" r="32"></circle>
+        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="21.248 15.104 17.792 18.56 17.792 32.256 21.248 35.712 34.944 35.712 34.944 42.624 28.16 42.624 28.16 39.168 17.792 39.168 17.792 46.08 21.248 49.536 41.856 49.536 45.312 46.08 45.312 32.256 41.856 28.8 28.16 28.8 28.16 21.888 35.072 21.888 35.072 25.344 45.44 25.344 45.44 18.432 41.984 14.976 21.248 14.976"></polygon>
+    </g>
+</svg>
