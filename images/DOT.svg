@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>img / logo / projects / bnb chain / DOT</title>
+    <g id="img-/-logo-/-projects-/-bnb-chain-/-DOT" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Polkadot_Token_PinkOnWhite" fill-rule="nonzero">
+            <g id="Background" fill="#FFFFFF">
+                <rect id="Rectangle" x="0" y="0" width="64" height="64" rx="32"></rect>
+            </g>
+            <g id="Logo" transform="translate(8.390679, 9.402560)" fill="#E6007A">
+                <ellipse id="Oval" cx="23.6093214" cy="4.7344" rx="8.13664" ry="4.7344"></ellipse>
+                <ellipse id="Oval" cx="23.6093214" cy="40.39424" rx="8.13664" ry="4.7344"></ellipse>
+                <ellipse id="Oval" transform="translate(8.168438, 13.649531) rotate(-60.000000) translate(-8.168438, -13.649531) " cx="8.16843754" cy="13.6495307" rx="8.13664" ry="4.7344"></ellipse>
+                <ellipse id="Oval" transform="translate(39.050423, 31.479403) rotate(-60.000000) translate(-39.050423, -31.479403) " cx="39.0504226" cy="31.4794035" rx="8.13664" ry="4.7344"></ellipse>
+                <ellipse id="Oval" transform="translate(8.168431, 31.479181) rotate(-30.000000) translate(-8.168431, -31.479181) " cx="8.16843067" cy="31.4791813" rx="4.7344" ry="8.13664"></ellipse>
+                <ellipse id="Oval" transform="translate(39.050238, 13.649676) rotate(-30.000000) translate(-39.050238, -13.649676) " cx="39.0502379" cy="13.6496762" rx="4.7344" ry="8.13664"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

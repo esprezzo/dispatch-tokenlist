@@ -1,11 +1,29 @@
 [
   {
-    "name": "WBNB Token",
-    "symbol": "WBNB",
-    "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+    "name": "1INCH Token",
+    "symbol": "1INCH",
+    "address": "0x111111111117dC0aa78b770fA6A738034120C302",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+    "logoURI": "https://tokens.esprezzo.io/images/1INCH.svg"
+
+  },
+  {
+    "name": "Ankr",
+    "symbol": "ANKR",
+    "address": "0xf307910A4c7bbc79691fD374889b36d8531B08e3",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.esprezzo.io/images/ANKR.svg"
+
+  },
+  {
+    "name": "Avalanche",
+    "symbol": "AVAX",
+    "address": "0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.esprezzo.io/images/AVAX.svg"
 
   },
   {
@@ -14,70 +32,134 @@
     "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
+    "logoURI": "https://tokens.esprezzo.io/images/BUSD.svg"
   },
   {
-    "name": "Ethereum Token - BSC",
-    "symbol": "ETH",
-    "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+    "name": "Cardano",
+    "symbol": "ADA",
+    "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png"
+    "logoURI": "https://tokens.esprezzo.io/images/ADA.svg"
   },
   {
-    "name": "Cosmos Token - BSC",
-    "symbol": "ATOM",
-    "address": "0x0eb3a705fc54725037cc9e008bdede697f62f335",
-    "chainId": 56,
-    "decimals": 18,
-    "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x0eb3a705fc54725037cc9e008bdede697f62f335.png"
-  },
-  {
-    "name": "Dai Token - BSC",
-    "symbol": "DAI",
-    "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
-    "chainId": 56,
-    "decimals": 18,
-    "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3.png"
-  },
-  {
-    "name": "YFII.finance Token - BSC",
-    "symbol": "YFII",
-    "address": "0x7f70642d88cf1c4a3a7abb072b53b929b653eda5",
-    "chainId": 56,
-    "decimals": 18,
-    "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x7f70642d88cf1c4a3a7abb072b53b929b653eda5.png"
-  },
-  {
-    "name": "Cream - BSC",
-    "symbol": "CREAM",
-    "address": "0xd4cb328a82bdf5f03eb737f37fa6b370aef3e888",
-    "chainId": 56,
-    "decimals": 18,
-    "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xd4cb328a82bdf5f03eb737f37fa6b370aef3e888.png"
-  },
-  {
-    "name": "Polkadot Token - BSC",
-    "symbol": "DOT",
-    "address": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
-    "chainId": 56,
-    "decimals": 18,
-    "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x7083609fce4d1d8dc0c979aab8c869ea2c873402.png"
-  },
-  {
-    "name": "PancakeSwap Token - BSC",
-    "symbol": "CAKE",
-    "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
-    "chainId": 56,
-    "decimals": 18,
-    "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
-  },
-  {
-    "name": "ChainLink Token - BSC",
+    "name": "Chainlink",
     "symbol": "LINK",
-    "address": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
+    "address": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd.png"
+    "logoURI": "https://tokens.esprezzo.io/images/LINK.svg"
+  },
+  {
+    "name": "Cosmos",
+    "symbol": "ATOM",
+    "address": "0x0Eb3a705fc54725037CC9e008bDede697f62F335",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.esprezzo.io/images/ATOM.svg"
+  },
+  {
+    "name": "Cream Finance",
+    "symbol": "CREAM",
+    "address": "0xd4CB328A82bDf5f03eB737f37Fa6B370aef3e888",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.esprezzo.io/images/CREAM.svg"
+  },
+  {
+    "name": "Dai",
+    "symbol": "DAI",
+    "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.esprezzo.io/images/DAI.svg"
+  },
+  {
+    "name": "Dogecoin",
+    "symbol": "DOGE",
+    "address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+    "chainId": 56,
+    "decimals": 8,
+    "logoURI": "https://tokens.esprezzo.io/images/DOGE.svg"
+  },
+  {
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.esprezzo.io/images/DOGE.svg"
+  },
+  {
+    "name": "Fantom",
+    "symbol": "FTM",
+    "address": "0xAD29AbB318791D579433D831ed122aFeAf29dcfe",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.esprezzo.io/images/FTM.svg"
+  },
+  {
+    "name": "PancakeSwap",
+    "symbol": "CAKE",
+    "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.esprezzo.io/images/CAKE.svg"
+  },
+  {
+    "name": "Polkadot",
+    "symbol": "DOT",
+    "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.esprezzo.io/images/DOT.svg"
+  },
+  {
+    "name": "Ripple",
+    "symbol": "XRP",
+    "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.esprezzo.io/images/XRP.svg"
+  },
+  {
+    "name": "Shiba Inu",
+    "symbol": "SHIB",
+    "address": "0x2859e4544C4bB03966803b044A93563Bd2D0DD4D",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.esprezzo.io/images/SHIB.svg"
+  },
+  {
+    "name": "Uniswap",
+    "symbol": "UNI",
+    "address": "0xBf5140A22578168FD562DCcF235E5D43A02ce9B1",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.esprezzo.io/images/UNI.svg"
+  },
+  {
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.esprezzo.io/images/USDC.svg"
+  },
+  {
+    "name": "WBNB Token",
+    "symbol": "WBNB",
+    "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.esprezzo.io/images/WBNB.svg"
+  },
+  {
+    "name": "yearn.finance",
+    "symbol": "YFI",
+    "address": "0x88f1A5ae2A3BF98AEAF342D26B30a79438c9142e",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.esprezzo.io/images/WBNB.svg"
   }
 ]
