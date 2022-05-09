@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>img / logo / projects / BSC / XRP</title>
+    <g id="img-/-logo-/-projects-/-BSC-/-XRP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill="#23292F" cx="32" cy="32" r="32"></circle>
+        <g id="xrp-xrp-logo" transform="translate(11.000000, 15.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M35.8476562,0 L41.9179688,0 L29.2851563,12.508125 C24.7102734,17.0354297 17.2930078,17.0354297 12.7148438,12.508125 L0.077109375,0 L6.15234375,0 L15.75,9.50167969 C18.6596992,12.3694265 23.332918,12.3694265 26.2426172,9.50167969 L35.8476562,0 Z" id="Path"></path>
+            <path d="M6.07441406,34.78125 L0,34.78125 L12.7148438,22.1960156 C17.2897266,17.6687109 24.7069922,17.6687109 29.2851562,22.1960156 L42,34.78125 L35.9296875,34.78125 L26.25,25.2024609 C23.3403008,22.3347142 18.667082,22.3347142 15.7573828,25.2024609 L6.07441406,34.78125 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>
