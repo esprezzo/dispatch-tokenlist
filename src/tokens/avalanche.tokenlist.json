@@ -45,7 +45,15 @@
     "decimals": 6,
     "name": "Tether USD",
     "symbol": "USDT.e",
-    "logoURI": "https://tokens.esprezzo.io/images/0xc7198437980c041c805A1EDcbA50c1Ce5db95118.svg"
+    "logoURI": "https://tokens.esprezzo.io/images/USDT.svg"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+    "decimals": 6,
+    "name": "Tether USD",
+    "symbol": "USDt",
+    "logoURI": "https://tokens.esprezzo.io/images/USDT.svg"
   },
   {
     "chainId": 43114,
@@ -53,7 +61,15 @@
     "decimals": 6,
     "name": "USD Coin",
     "symbol": "USDC.e",
-    "logoURI": "https://tokens.esprezzo.io/images/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664.svg"
+    "logoURI": "https://tokens.esprezzo.io/images/USDC.svg"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+    "decimals": 6,
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "logoURI": "https://tokens.esprezzo.io/images/USDC.svg"
   },
   {
     "chainId": 43114,
@@ -70,5 +86,93 @@
     "name": "Wrapped Ether",
     "symbol": "WETH.e",
     "logoURI": "https://tokens.esprezzo.io/images/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB.svg"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xCE1bFFBD5374Dac86a2893119683F4911a2F7814",
+    "decimals": 18,
+    "name": "Spell Token",
+    "symbol": "SPELL",
+    "logoURI": "https://tokens.esprezzo.io/images/SPELL.svg"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x130966628846BFd36ff31a822705796e8cb8C18D",
+    "decimals": 18,
+    "name": "Magic Internet Money",
+    "symbol": "MIM",
+    "logoURI": "https://tokens.esprezzo.io/images/MIM.svg"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
+    "decimals": 18,
+    "name": "BENQI",
+    "symbol": "QI",
+    "logoURI": "https://tokens.esprezzo.io/images/QI.svg"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x57319d41F71E81F3c65F2a47CA4e001EbAFd4F33",
+    "decimals": 18,
+    "name": "JoeBar",
+    "symbol": "xJOE",
+    "logoURI": "https://tokens.esprezzo.io/images/xJOE.svg"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xf693248F96Fe03422FEa95aC0aFbBBc4a8FdD172",
+    "decimals": 18,
+    "name": "Treasure Under Sea",
+    "symbol": "TUS",
+    "logoURI": "https://tokens.esprezzo.io/images/TUS.svg"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xb54f16fB19478766A268F172C9480f8da1a7c9C3",
+    "decimals": 9,
+    "name": "Wonderland",
+    "symbol": "TIME",
+    "logoURI": "https://tokens.esprezzo.io/images/TIME.svg"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
+    "decimals": 18,
+    "name": "Elk Finance",
+    "symbol": "ELK",
+    "logoURI": "https://tokens.esprezzo.io/images/ELK.svg"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4",
+    "decimals": 18,
+    "name": "Avalaunch",
+    "symbol": "XAVA",
+    "logoURI": "https://tokens.esprezzo.io/images/XAVA.svg"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17",
+    "decimals": 18,
+    "name": "DeFi Yield Protocol",
+    "symbol": "DYP",
+    "logoURI": "https://tokens.esprezzo.io/images/DYP.svg"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xec3492a2508DDf4FDc0cD76F31f340b30d1793e6",
+    "decimals": 18,
+    "name": "Colony",
+    "symbol": "CLY",
+    "logoURI": "https://tokens.esprezzo.io/images/CLY.svg"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xF891214fdcF9cDaa5fdC42369eE4F27F226AdaD6",
+    "decimals": 18,
+    "name": "Imperium Empires",
+    "symbol": "IME",
+    "logoURI": "https://tokens.esprezzo.io/images/IME.svg"
   }
 ]
