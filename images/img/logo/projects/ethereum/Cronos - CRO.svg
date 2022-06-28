@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>img / logo / projects / ethereum / Cronos - CRO</title>
+    <defs>
+        <linearGradient x1="49.9988171%" y1="-0.000134045155%" x2="49.9988171%" y2="100.000146%" id="linearGradient-1">
+            <stop stop-color="#25376C" offset="0%"></stop>
+            <stop stop-color="#1F1F49" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.9989213%" y1="100.000146%" x2="49.9989213%" y2="-0.000134045155%" id="linearGradient-2">
+            <stop stop-color="#25376C" offset="0%"></stop>
+            <stop stop-color="#1F1F49" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="img-/-logo-/-projects-/-ethereum-/-Cronos---CRO" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="crypto-com-coin-cro-logo" transform="translate(4.000000, 0.000000)" fill-rule="nonzero">
+            <polygon id="Path" fill="url(#linearGradient-1)" points="27.7201199 0 0 15.9993606 0 48.0006394 27.7201199 64 55.4402398 48.0006394 55.4402398 15.9993606"></polygon>
+            <polygon id="Path" fill="url(#linearGradient-2)" points="27.7201199 0 0 15.9993606 0 48.0006394 27.7201199 64"></polygon>
+            <path d="M38.5253147,13.8255345 L16.7717083,13.8255345 L14.244955,24.912048 L41.1927273,24.912048 L38.5253147,13.8255345 Z M20.6308891,40.1416184 L20.6308891,32.7736264 L14.1759041,28.7021778 L6.87696304,34.1060539 L16.8407592,51.4403996 L20.8431568,51.4403996 L25.5437363,47.0185814 L25.5437363,44.8421978 L20.6308891,40.1416184 Z" id="Shape" fill="#FFFFFF"></path>
+            <polygon id="Path" fill="#FFFFFF" points="34.7377423 26.5974026 20.7024975 26.5974026 23.0195405 32.7736264 22.3188012 39.7221978 33.1265534 39.7221978 32.4258142 32.7736264"></polygon>
+            <polygon id="Path" fill="#FFFFFF" points="41.1927273 28.6305694 34.8067932 32.7710689 34.8067932 40.1390609 29.9655544 44.8396404 29.9655544 47.016024 34.6661339 51.3662338 38.5969231 51.3662338 48.4916683 34.1034965"></polygon>
+        </g>
+    </g>
+</svg>

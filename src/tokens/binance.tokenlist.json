@@ -161,5 +161,77 @@
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://tokens.esprezzo.io/images/WBNB.svg"
+  },
+  {
+    "name": "Biswap",
+    "symbol": "BSW",
+    "address": "0x965F527D9159dCe6288a2219DB51fc6Eef120dD1",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.esprezzo.io/images/BSW.svg"
+  },
+  {
+    "name": "Bitcoin BEP2",
+    "symbol": "BTCB",
+    "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.esprezzo.io/images/BTCB.svg"
+  },
+  {
+    "name": "Litecoin",
+    "symbol": "LTC",
+    "address": "0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.esprezzo.io/images/LTC.svg"
+  },
+  {
+    "name": "MOBOX",
+    "symbol": "MBOX",
+    "address": "0x3203c9E46cA618C8C1cE5dC67e7e9D75f5da2377",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.esprezzo.io/images/MBOX.svg"
+  },
+  {
+    "name": "NEAR Protocol",
+    "symbol": "NEAR",
+    "address": "0x1Fa4a73a3F0133f0025378af00236f3aBDEE5D63",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.esprezzo.io/images/NEAR.svg"
+  },
+  {
+    "name": "Trust Wallet Token",
+    "symbol": "TWT",
+    "address": "0x4B0F1812e5Df2A09796481Ff14017e6005508003",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.esprezzo.io/images/TWT.svg"
+  },
+  {
+    "name": "Alpaca Finance",
+    "symbol": "ALPACA",
+    "address": "0x8F0528cE5eF7B51152A59745bEfDD91D97091d2F",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.esprezzo.io/images/ALPACA.svg"
+  },
+  {
+    "name": "BakeryToken",
+    "symbol": "BAKERY",
+    "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.esprezzo.io/images/BAKERY.svg"
+  },
+  {
+    "name": "Baby Doge Coin",
+    "symbol": "BabyDOGE",
+    "address": "0xc748673057861a797275CD8A068AbB95A902e8de",
+    "chainId": 56,
+    "decimals": 9,
+    "logoURI": "https://tokens.esprezzo.io/images/BabyDOGE.svg"
   }
 ]

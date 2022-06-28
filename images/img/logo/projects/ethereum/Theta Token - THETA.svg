@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>img / logo / projects / ethereum / Theta Token - THETA</title>
+    <defs>
+        <linearGradient x1="25.5493785%" y1="7.7671083%" x2="74.4482758%" y2="92.22884%" id="linearGradient-1">
+            <stop stop-color="#2AB8E6" offset="0%"></stop>
+            <stop stop-color="#29CAD2" offset="53%"></stop>
+            <stop stop-color="#2EE4BE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="31.5052833%" y1="20.1732852%" x2="68.4991938%" y2="79.833935%" id="linearGradient-2">
+            <stop stop-color="#2AB8E6" offset="0%"></stop>
+            <stop stop-color="#29CAD2" offset="53%"></stop>
+            <stop stop-color="#2EE4BE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="img-/-logo-/-projects-/-ethereum-/-Theta-Token---THETA" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="theta-network-theta-logo" fill-rule="nonzero">
+            <polygon id="Path" fill="#1B1F2B" points="0 0 64 0 64 64 0 64"></polygon>
+            <polygon id="Path" stroke="url(#linearGradient-1)" stroke-width="4" fill="#1B1F2B" stroke-linejoin="bevel" points="21.440739 13.760739 42.560739 13.760739 42.560739 50.240739 21.440739 50.240739"></polygon>
+            <path d="M38.4,37.76 L34.0264203,37.76 L34.0264203,42.3419861 L30.08,42.3419861 L30.08,37.76 L25.7064203,37.76 L25.7064203,33.8135797 L38.4,33.8135797 L38.4,37.76 Z M38.4,26.4528406 L34.0264203,26.4528406 L34.0264203,21.8708545 L30.08,21.8708545 L30.08,26.4528406 L25.7064203,26.4528406 L25.7064203,30.399261 L38.4,30.399261 L38.4,26.4528406 Z" id="Shape" fill="url(#linearGradient-2)"></path>
+        </g>
+    </g>
+</svg>

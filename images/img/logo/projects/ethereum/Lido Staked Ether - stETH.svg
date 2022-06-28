@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>img / logo / projects / ethereum / Lido Staked Ether - stETH</title>
+    <g id="img-/-logo-/-projects-/-ethereum-/-Lido-Staked-Ether---stETH" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="stETH" fill-rule="nonzero">
+            <path d="M32,64 C49.673125,64 64,49.673125 64,32 C64,14.326875 49.673125,0 32,0 C14.326875,0 0,14.326875 0,32 C0,49.673125 14.326875,64 32,64 Z" id="Path" fill="#FFFFFF"></path>
+            <path d="M18.8735,29.7265 L18.51525,30.276125 C14.4745,36.47475 15.377,44.59275 20.685,49.7935 C23.807625,52.85325 27.90025,54.38325 31.993,54.383625 C31.993,54.383625 31.993,54.383625 18.8735,29.7265 Z" id="Path" fill="#00A3FF"></path>
+            <path d="M31.98925,37.2205 L18.86975,29.7265 C31.98925,54.383625 31.98925,54.383625 31.98925,54.383625 C31.98925,49.0135 31.98925,42.86 31.98925,37.2205 Z" id="Path" fill="#00A3FF" opacity="0.6"></path>
+            <path d="M45.1265,29.7265 L45.48475,30.276125 C49.5255,36.47475 48.623,44.59275 43.315,49.7935 C40.192375,52.85325 36.09975,54.38325 32.007,54.383625 C32.007,54.383625 32.007,54.383625 45.1265,29.7265 Z" id="Path" fill="#00A3FF" opacity="0.6"></path>
+            <path d="M32.0055,37.2205 L45.125,29.7265 C32.0055,54.383625 32.0055,54.383625 32.0055,54.383625 C32.0055,49.0135 32.0055,42.86 32.0055,37.2205 Z" id="Path" fill="#00A3FF" opacity="0.2"></path>
+            <polygon id="Path" fill="#00A3FF" opacity="0.2" points="32.010375 20.479125 32.010375 33.404125 43.311375 26.945875"></polygon>
+            <polygon id="Path" fill="#00A3FF" opacity="0.6" points="32.007 20.479125 20.697875 26.945625 32.007 33.404125"></polygon>
+            <polygon id="Path" fill="#00A3FF" points="32.007 9.609375 20.697875 26.949875 32.007 20.46525"></polygon>
+            <polygon id="Path" fill="#00A3FF" opacity="0.6" points="32.010375 20.46325 43.32 26.948125 32.010375 9.5989625"></polygon>
+        </g>
+    </g>
+</svg>

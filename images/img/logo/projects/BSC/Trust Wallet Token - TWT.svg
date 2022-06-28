@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>img / logo / projects / BSC / Trust Wallet Token - TWT</title>
+    <g id="img-/-logo-/-projects-/-BSC-/-Trust-Wallet-Token---TWT" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Trust_Wallet_Token-TWT" transform="translate(0.000000, 0.000000)">
+            <path d="M32,64 C49.673098,64 64,49.6731 64,32 C64,14.3269 49.673098,0 32,0 C14.326898,0 3.55271368e-15,14.3269 3.55271368e-15,32 C3.55271368e-15,49.6731 14.326898,64 32,64 Z" id="Path" fill="#3375BB" fill-rule="nonzero"></path>
+            <path d="M32.226798,14 C38.550898,19.2816 45.802998,18.9559 47.875098,18.9559 C47.421798,48.9937 43.968398,43.0373 32.226798,51.46 C20.485198,43.0373 17.053398,48.9937 16.600098,18.9559 C18.650598,18.9559 25.902698,19.2816 32.226798,14 Z" id="Path" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>
