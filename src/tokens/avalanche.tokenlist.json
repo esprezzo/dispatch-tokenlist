@@ -174,5 +174,13 @@
     "name": "Imperium Empires",
     "symbol": "IME",
     "logoURI": "https://tokens.esprezzo.io/images/IME.svg"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39",
+    "decimals": 18,
+    "name": "BUSD Token",
+    "symbol": "BUSD",
+    "logoURI": "https://tokens.esprezzo.io/images/BUSD.svg"
   }
 ]

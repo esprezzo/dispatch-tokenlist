@@ -92,7 +92,7 @@
     "chainId": 1,
     "symbol": "SUSHI",
     "decimals": 18,
-    "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+    "address": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
     "logoURI": "https://tokens.esprezzo.io/images/0x6b3595068778dd592e39a122f4f5a5cf09c90fe2.svg"
     },
   {
@@ -100,7 +100,7 @@
       "chainId": 1,
       "symbol": "SNX",
       "decimals": 18,
-      "address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+      "address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
       "logoURI": "https://tokens.esprezzo.io/images/0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f.svg"
   },
   {
@@ -108,7 +108,7 @@
     "chainId": 1,
     "symbol": "USDT",
     "decimals": 6,
-    "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "logoURI": "https://tokens.esprezzo.io/images/0xdac17f958d2ee523a2206206994597c13d831ec7.svg"
   },
   {
@@ -124,7 +124,7 @@
     "chainId": 1,
     "symbol": "USDC",
     "decimals": 6,
-    "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "logoURI": "https://tokens.esprezzo.io/images/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.svg"
   },
   {
@@ -132,7 +132,7 @@
     "chainId": 1,
     "symbol": "WBTC",
     "decimals": 8,
-    "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+    "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
     "logoURI": "https://tokens.esprezzo.io/images/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.svg"
   },
   {
@@ -196,7 +196,7 @@
     "chainId": 1,
     "symbol": "BAL",
     "decimals": 18,
-    "address": "0xba100000625a3754423978a60c9317c58a424e3d",
+    "address": "0xba100000625a3754423978a60c9317c58a424e3D",
     "logoURI": "https://tokens.esprezzo.io/images/BAL.svg"
   },
   {
@@ -204,7 +204,7 @@
     "chainId": 1,
     "symbol": "BNT",
     "decimals": 18,
-    "address": "0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c",
+    "address": "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C",
     "logoURI": "https://tokens.esprezzo.io/images/BNT.svg"
   },
   {
