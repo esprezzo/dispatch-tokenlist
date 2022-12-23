@@ -5,7 +5,7 @@
       "symbol": "AAVE",
       "decimals": 18,
       "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
-      "logoURI": "https://tokens.esprezzo.io/images/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9.svg"
+      "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9.svg"
   },
   {
       "name": "Basic Attention Token",
@@ -13,7 +13,7 @@
       "symbol": "BAT",
       "decimals": 18,
       "address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
-      "logoURI": "https://tokens.esprezzo.io/images/0x0D8775F648430679A709E98d2b0Cb6250d2887EF.svg"
+      "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0x0D8775F648430679A709E98d2b0Cb6250d2887EF.svg"
   },
   {
     "name": "Chainlink",
@@ -21,7 +21,7 @@
     "symbol": "LINK",
     "decimals": 18,
     "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
-    "logoURI": "https://tokens.esprezzo.io/images/0x514910771AF9Ca656af840dff83E8264EcF986CA.svg"
+    "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0x514910771AF9Ca656af840dff83E8264EcF986CA.svg"
   },
   {
       "name": "Compound",
@@ -29,7 +29,7 @@
       "symbol": "COMP",
       "decimals": 18,
       "address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
-      "logoURI": "https://tokens.esprezzo.io/images/0xc00e94Cb662C3520282E6f5717214004A7f26888.svg"
+      "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0xc00e94Cb662C3520282E6f5717214004A7f26888.svg"
   },
   {
       "name": "Curve DAO Token",
@@ -37,7 +37,7 @@
       "symbol": "CRV",
       "decimals": 18,
       "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
-      "logoURI": "https://tokens.esprezzo.io/images/0xD533a949740bb3306d119CC777fa900bA034cd52.svg"
+      "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0xD533a949740bb3306d119CC777fa900bA034cd52.svg"
   },
   {
       "name": "Dai Stablecoin",
@@ -45,7 +45,7 @@
       "symbol": "DAI",
       "decimals": 18,
       "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-      "logoURI": "https://tokens.esprezzo.io/images/0x6B175474E89094C44Da98b954EedeAC495271d0F.svg"
+      "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0x6B175474E89094C44Da98b954EedeAC495271d0F.svg"
   },
   {
       "name": "Decentraland",
@@ -53,7 +53,7 @@
       "symbol": "MANA",
       "decimals": 18,
       "address": "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942",
-      "logoURI": "https://tokens.esprezzo.io/images/0x0F5D2fB29fb7d3CFeE444a200298f468908cC942.svg"
+      "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0x0F5D2fB29fb7d3CFeE444a200298f468908cC942.svg"
   },
   {
       "name": "Maker",
@@ -61,7 +61,7 @@
       "symbol": "MKR",
       "decimals": 18,
       "address": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
-      "logoURI": "https://tokens.esprezzo.io/images/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2.svg"
+      "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2.svg"
   },
   {
     "name": "Polygon Matic",
@@ -69,7 +69,7 @@
     "symbol": "MATIC",
     "decimals": 18,
     "address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
-    "logoURI": "https://tokens.esprezzo.io/images/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0.svg"
+    "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0.svg"
   },
   {
       "name": "Sandbox",
@@ -77,7 +77,7 @@
       "symbol": "SAND",
       "decimals": 18,
       "address": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
-      "logoURI": "https://tokens.esprezzo.io/images/0x3845badAde8e6dFF049820680d1F14bD3903a5d0.svg"
+      "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0x3845badAde8e6dFF049820680d1F14bD3903a5d0.svg"
   },
   {
     "name": "Shiba Inu",
@@ -85,7 +85,7 @@
     "symbol": "SHIB",
     "decimals": 18,
     "address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
-    "logoURI": "https://tokens.esprezzo.io/images/0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE.svg"
+    "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE.svg"
   },
   {
     "name": "SushiSwap",
@@ -93,7 +93,7 @@
     "symbol": "SUSHI",
     "decimals": 18,
     "address": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
-    "logoURI": "https://tokens.esprezzo.io/images/0x6b3595068778dd592e39a122f4f5a5cf09c90fe2.svg"
+    "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2.svg"
     },
   {
       "name": "Synthetix",
@@ -101,7 +101,7 @@
       "symbol": "SNX",
       "decimals": 18,
       "address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
-      "logoURI": "https://tokens.esprezzo.io/images/0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f.svg"
+      "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F.svg"
   },
   {
     "name": "Tether",
@@ -109,7 +109,7 @@
     "symbol": "USDT",
     "decimals": 6,
     "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-    "logoURI": "https://tokens.esprezzo.io/images/0xdac17f958d2ee523a2206206994597c13d831ec7.svg"
+    "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0xdAC17F958D2ee523a2206206994597C13D831ec7.svg"
   },
   {
       "name": "Uniswap",
@@ -117,7 +117,7 @@
       "symbol": "UNI",
       "decimals": 18,
       "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
-      "logoURI": "https://tokens.esprezzo.io/images/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984.svg"
+      "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984.svg"
   },
   {
     "name": "USD Coin",
@@ -125,7 +125,7 @@
     "symbol": "USDC",
     "decimals": 6,
     "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-    "logoURI": "https://tokens.esprezzo.io/images/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.svg"
+    "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48.svg"
   },
   {
     "name": "Wrapped Bitcoin",
@@ -133,7 +133,7 @@
     "symbol": "WBTC",
     "decimals": 8,
     "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
-    "logoURI": "https://tokens.esprezzo.io/images/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.svg"
+    "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599.svg"
   },
   {
     "name": "Wrapped Ether",
@@ -141,7 +141,7 @@
     "symbol": "WETH",
     "decimals": 18,
     "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-    "logoURI": "https://tokens.esprezzo.io/images/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2.svg"
+    "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2.svg"
   },
   {
       "name": "yearn.finance",
@@ -149,7 +149,7 @@
       "symbol": "YFI",
       "decimals": 18,
       "address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
-      "logoURI": "https://tokens.esprezzo.io/images/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e.svg"
+      "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e.svg"
   },
   {
     "name": "0x",
@@ -157,7 +157,7 @@
     "symbol": "ZRX",
     "decimals": 18,
     "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
-    "logoURI": "https://tokens.esprezzo.io/images/ZRX.svg"
+    "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0xE41d2489571d322189246DaFA5ebDe1F4699F498.svg"
   },
   {
     "name": "1INCH Token",
@@ -165,7 +165,7 @@
     "symbol": "1INCH",
     "decimals": 18,
     "address": "0x111111111117dC0aa78b770fA6A738034120C302",
-    "logoURI": "https://tokens.esprezzo.io/images/1INCH.svg"
+    "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0x111111111117dC0aa78b770fA6A738034120C302.svg"
   },
   {
     "name": "ApeCoin",
@@ -173,7 +173,7 @@
     "symbol": "APE",
     "decimals": 18,
     "address": "0x4d224452801ACEd8B2F0aebE155379bb5D594381",
-    "logoURI": "https://tokens.esprezzo.io/images/APE.svg"
+    "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0x4d224452801ACEd8B2F0aebE155379bb5D594381.svg"
   },
   {
     "name": "Axie Infinity",
@@ -181,7 +181,7 @@
     "symbol": "AXS",
     "decimals": 18,
     "address": "0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b",
-    "logoURI": "https://tokens.esprezzo.io/images/AXS.svg"
+    "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b.svg"
   },
   {
     "name": "BadgerDAO",
@@ -189,7 +189,7 @@
     "symbol": "BADGER",
     "decimals": 18,
     "address": "0x3472A5A71965499acd81997a54BBA8D852C6E53d",
-    "logoURI": "https://tokens.esprezzo.io/images/BADGER.svg"
+    "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0x3472A5A71965499acd81997a54BBA8D852C6E53d.svg"
   },
   {
     "name": "Balancer",
@@ -197,7 +197,7 @@
     "symbol": "BAL",
     "decimals": 18,
     "address": "0xba100000625a3754423978a60c9317c58a424e3D",
-    "logoURI": "https://tokens.esprezzo.io/images/BAL.svg"
+    "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0xba100000625a3754423978a60c9317c58a424e3D.svg"
   },
   {
     "name": "Bancor",
@@ -205,7 +205,7 @@
     "symbol": "BNT",
     "decimals": 18,
     "address": "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C",
-    "logoURI": "https://tokens.esprezzo.io/images/BNT.svg"
+    "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C.svg"
   },
   {
     "name": "Binance USD",
@@ -213,7 +213,7 @@
     "symbol": "BUSD",
     "decimals": 18,
     "address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
-    "logoURI": "https://tokens.esprezzo.io/images/BUSD.svg"
+    "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0x4Fabb145d64652a948d72533023f6E7A623C7C53.svg"
   },
   {
     "name": "Binance Coin",
@@ -221,7 +221,7 @@
     "symbol": "BNB",
     "decimals": 18,
     "address": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
-    "logoURI": "https://tokens.esprezzo.io/images/BNB.svg"
+    "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0xB8c77482e45F1F44dE1745F52C74426C631bDD52.svg"
   },
   {
     "name": "Celsius",
@@ -229,7 +229,7 @@
     "symbol": "CEL",
     "decimals": 4,
     "address": "0xaaAEBE6Fe48E54f431b0C390CfaF0b017d09D42d",
-    "logoURI": "https://tokens.esprezzo.io/images/CEL.svg"
+    "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0xaaAEBE6Fe48E54f431b0C390CfaF0b017d09D42d.svg"
   },
   {
     "name": "chiliZ",
@@ -237,7 +237,7 @@
     "symbol": "CHZ",
     "decimals": 18,
     "address": "0x3506424F91fD33084466F402d5D97f05F8e3b4AF",
-    "logoURI": "https://tokens.esprezzo.io/images/CHZ.svg"
+    "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0x3506424F91fD33084466F402d5D97f05F8e3b4AF.svg"
   },
   {
     "name": "Compound Ether",
@@ -245,7 +245,7 @@
     "symbol": "cETH",
     "decimals": 8,
     "address": "0x4Ddc2D193948926D02f9B1fE9e1daa0718270ED5",
-    "logoURI": "https://tokens.esprezzo.io/images/cETH.svg"
+    "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0x4Ddc2D193948926D02f9B1fE9e1daa0718270ED5.svg"
   },
   {
     "name": "Compound USD Coin",
@@ -253,7 +253,7 @@
     "symbol": "cUSDC",
     "decimals": 8,
     "address": "0x39AA39c021dfbaE8faC545936693aC917d5E7563",
-    "logoURI": "https://tokens.esprezzo.io/images/cUSDC.svg"
+    "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0x39AA39c021dfbaE8faC545936693aC917d5E7563.svg"
   },
   {
     "name": "Cronos Coin",
@@ -261,7 +261,7 @@
     "symbol": "CRO",
     "decimals": 18,
     "address": "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b",
-    "logoURI": "https://tokens.esprezzo.io/images/CRO.svg"
+    "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b.svg"
   },
   {
     "name": "Enjin Coin",
@@ -269,7 +269,7 @@
     "symbol": "ENJ",
     "decimals": 18,
     "address": "0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c",
-    "logoURI": "https://tokens.esprezzo.io/images/ENJ.svg"
+    "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c.svg"
   },
   {
     "name": "Ethereum Name Service",
@@ -277,7 +277,7 @@
     "symbol": "ENS",
     "decimals": 18,
     "address": "0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72",
-    "logoURI": "https://tokens.esprezzo.io/images/ENS.svg"
+    "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72.svg"
   },
   {
     "name": "Fantom Token",
@@ -285,7 +285,7 @@
     "symbol": "FTM",
     "decimals": 18,
     "address": "0x4E15361FD6b4BB609Fa63C81A2be19d873717870",
-    "logoURI": "https://tokens.esprezzo.io/images/FTM.svg"
+    "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0x4E15361FD6b4BB609Fa63C81A2be19d873717870.svg"
   },
   {
     "name": "Gala",
@@ -293,7 +293,7 @@
     "symbol": "GALA",
     "decimals": 8,
     "address": "0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA",
-    "logoURI": "https://tokens.esprezzo.io/images/GALA.svg"
+    "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA.svg"
   },
   {
     "name": "HEX",
@@ -301,7 +301,7 @@
     "symbol": "HEX",
     "decimals": 8,
     "address": "0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39",
-    "logoURI": "https://tokens.esprezzo.io/images/HEX.svg"
+    "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39.svg"
   },
   {
     "name": "Lido Staked Ether",
@@ -309,7 +309,7 @@
     "symbol": "stETH",
     "decimals": 18,
     "address": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
-    "logoURI": "https://tokens.esprezzo.io/images/stETH.svg"
+    "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84.svg"
   },
   {
     "name": "LooksRare",
@@ -317,7 +317,7 @@
     "symbol": "LOOKS",
     "decimals": 18,
     "address": "0xf4d2888d29D722226FafA5d9B24F9164c092421E",
-    "logoURI": "https://tokens.esprezzo.io/images/LOOKS.svg"
+    "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0xf4d2888d29D722226FafA5d9B24F9164c092421E.svg"
   },
   {
     "name": "Loopring Token v2",
@@ -325,7 +325,7 @@
     "symbol": "LRC",
     "decimals": 18,
     "address": "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD",
-    "logoURI": "https://tokens.esprezzo.io/images/LRC.svg"
+    "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD.svg"
   },
   {
     "name": "Pax Dollar",
@@ -333,7 +333,7 @@
     "symbol": "USDP",
     "decimals": 18,
     "address": "0x8E870D67F660D95d5be530380D0eC0bd388289E1",
-    "logoURI": "https://tokens.esprezzo.io/images/USDP.svg"
+    "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0x8E870D67F660D95d5be530380D0eC0bd388289E1.svg"
   },
   {
     "name": "PAX Gold",
@@ -341,7 +341,7 @@
     "symbol": "PAXG",
     "decimals": 18,
     "address": "0x45804880De22913dAFE09f4980848ECE6EcbAf78",
-    "logoURI": "https://tokens.esprezzo.io/images/PAXG.svg"
+    "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0x45804880De22913dAFE09f4980848ECE6EcbAf78.svg"
   },
   {
     "name": "Quant",
@@ -349,7 +349,7 @@
     "symbol": "QNT",
     "decimals": 18,
     "address": "0x4a220E6096B25EADb88358cb44068A3248254675",
-    "logoURI": "https://tokens.esprezzo.io/images/QNT.svg"
+    "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0x4a220E6096B25EADb88358cb44068A3248254675.svg"
   },
   {
     "name": "The Graph",
@@ -357,7 +357,7 @@
     "symbol": "GRT",
     "decimals": 18,
     "address": "0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
-    "logoURI": "https://tokens.esprezzo.io/images/GRT.svg"
+    "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0xc944E90C64B2c07662A292be6244BDf05Cda44a7.svg"
   },
   {
     "name": "TrueUSD",
@@ -365,7 +365,7 @@
     "symbol": "TUSD",
     "decimals": 18,
     "address": "0x0000000000085d4780B73119b644AE5ecd22b376",
-    "logoURI": "https://tokens.esprezzo.io/images/TUSD.svg"
+    "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0x0000000000085d4780B73119b644AE5ecd22b376.svg"
   },
   {
     "name": "HoloToken",
@@ -373,7 +373,7 @@
     "symbol": "HOT",
     "decimals": 18,
     "address": "0x6c6EE5e31d828De241282B9606C8e98Ea48526E2",
-    "logoURI": "https://tokens.esprezzo.io/images/HOT.svg"
+    "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0x6c6EE5e31d828De241282B9606C8e98Ea48526E2.svg"
   },
   {
     "name": "OKB",
@@ -381,7 +381,7 @@
     "symbol": "OKB",
     "decimals": 18,
     "address": "0x75231F58b43240C9718Dd58B4967c5114342a86c",
-    "logoURI": "https://tokens.esprezzo.io/images/OKB.svg"
+    "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0x75231F58b43240C9718Dd58B4967c5114342a86c.svg"
   },
   {
     "name": "Theta Token",
@@ -389,6 +389,6 @@
     "symbol": "THETA",
     "decimals": 18,
     "address": "0x3883f5e181fccaF8410FA61e12b59BAd963fb645",
-    "logoURI": "https://tokens.esprezzo.io/images/THETA.svg"
+    "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/ethereum/0x3883f5e181fccaF8410FA61e12b59BAd963fb645.svg"
   }
 ]

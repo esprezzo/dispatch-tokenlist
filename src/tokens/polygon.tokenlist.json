@@ -5,7 +5,7 @@
       "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://tokens.esprezzo.io/images/AAVE.svg"
+      "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/polygon/0xD6DF932A45C0f255f85145f286eA0b292B21C90B.svg"
   
     },
     {
@@ -14,7 +14,7 @@
       "address": "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://tokens.esprezzo.io/images/GHST.svg"
+      "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/polygon/0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7.svg"
     },
     {
       "name": "Balancer",
@@ -22,7 +22,7 @@
       "address": "0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://tokens.esprezzo.io/images/BAL.svg"
+      "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/polygon/0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3.svg"
     },
     {
       "name": "Chainlink",
@@ -30,7 +30,7 @@
       "address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://tokens.esprezzo.io/images/LINK.svg"
+      "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/polygon/0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39.svg"
     },
     {
       "name": "Compound",
@@ -38,7 +38,7 @@
       "address": "0x8505b9d2254A7Ae468c0E9dd10Ccea3A837aef5c",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://tokens.esprezzo.io/images/COMP.svg"
+      "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/polygon/0x8505b9d2254A7Ae468c0E9dd10Ccea3A837aef5c.svg"
     },
     {
       "name": "Curve DAO Token",
@@ -46,7 +46,7 @@
       "address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://tokens.esprezzo.io/images/CRV.svg"
+      "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/polygon/0x172370d5Cd63279eFa6d502DAB29171933a610AF.svg"
     },
     {
       "name": "Dai",
@@ -54,7 +54,7 @@
       "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://tokens.esprezzo.io/images/DAI.svg"
+      "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/polygon/0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063.svg"
     },
     {
       "name": "Decentraland",
@@ -62,7 +62,7 @@
       "address": "0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://tokens.esprezzo.io/images/MANA.svg"
+      "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/polygon/0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4.svg"
     },
     {
       "name": "Kyber Network Crystal",
@@ -70,7 +70,7 @@
       "address": "0x1C954E8fe737F99f68Fa1CCda3e51ebDB291948C",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://tokens.esprezzo.io/images/KNC.svg"
+      "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/polygon/0x1C954E8fe737F99f68Fa1CCda3e51ebDB291948C.svg"
     },
     {
       "name": "Matic Token",
@@ -78,7 +78,7 @@
       "address": "0x0000000000000000000000000000000000001010",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://tokens.esprezzo.io/images/MATIC.svg"
+      "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/polygon/0x0000000000000000000000000000000000001010.svg"
     },
     {
       "name": "QuickSwap",
@@ -86,7 +86,7 @@
       "address": "0x831753DD7087CaC61aB5644b308642cc1c33Dc13",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://tokens.esprezzo.io/images/QUICK.svg"
+      "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/polygon/0x831753DD7087CaC61aB5644b308642cc1c33Dc13.svg"
     },
     {
       "name": "The Sandbox",
@@ -94,7 +94,7 @@
       "address": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://tokens.esprezzo.io/images/SAND.svg"
+      "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/polygon/0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683.svg"
     },
     {
       "name": "SushiSwap",
@@ -102,7 +102,7 @@
       "address": "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://tokens.esprezzo.io/images/SUSHI.svg"
+      "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/polygon/0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a.svg"
     },
     {
       "name": "Tether",
@@ -110,7 +110,7 @@
       "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://tokens.esprezzo.io/images/USDT.svg"
+      "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/polygon/0xc2132D05D31c914a87C6611C10748AEb04B58e8F.svg"
     },
     {
       "name": "Uniswap",
@@ -118,7 +118,7 @@
       "address": "0xb33EaAd8d922B1083446DC23f610c2567fB5180f",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://tokens.esprezzo.io/images/UNI.svg"
+      "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/polygon/0xb33EaAd8d922B1083446DC23f610c2567fB5180f.svg"
     },
     {
       "name": "USD Coin",
@@ -126,7 +126,7 @@
       "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
       "chainId": 137,
       "decimals": 6,
-      "logoURI": "https://tokens.esprezzo.io/images/USDC.svg"
+      "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/polygon/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174.svg"
     },
     {
       "name": "Wrapped BTC",
@@ -134,7 +134,7 @@
       "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
       "chainId": 137,
       "decimals": 8,
-      "logoURI": "https://tokens.esprezzo.io/images/WBTC.svg"
+      "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/polygon/0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6.svg"
     },
     {
       "name": "Wrapped Ether",
@@ -142,7 +142,7 @@
       "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://tokens.esprezzo.io/images/WETH.svg"
+      "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/polygon/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619.svg"
     },
     {
       "name": "Wrapped Matic",
@@ -150,7 +150,7 @@
       "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://tokens.esprezzo.io/images/WMATIC.svg"
+      "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/polygon/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270.svg"
     },
     {
       "name": "yearn.finance",
@@ -158,6 +158,6 @@
       "address": "0xDA537104D6A5edd53c6fBba9A898708E465260b6",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://tokens.esprezzo.io/images/WMATIC.svg"
+      "logoURI": "https://content.esprezzo.io/dispatch/icons/crypto/polygon/0xDA537104D6A5edd53c6fBba9A898708E465260b6.svg"
     }
   ]
